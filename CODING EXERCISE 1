@@ -18,9 +18,9 @@ public class myLife {
 		System.out.println("Afternoon -5.15pm-6.00pm : Go out and exercise around campus");
 		System.out.println("Evening -6.00pm-6.45pm : Dinner in cafetiria with friends");
 		System.out.println("Evening -7.00pm-8.00pm : Take a bath and then make a Maghrib prayer");
-		System.out.println("Evening -8.00pm-10pm : Playing games and then take a short brake for Isyhak prayer");
-		System.out.println("Night -10.00.pm-12.30pm : Surfing through social media, watching anime, reading manga or light novel");
-		System.out.println("Midnight -12.30pm : End of the day -Sleep-zzzzz");
+		System.out.println("Evening -8.00pm-10pm : Doing revison for programming work and other subjects that I learned today");
+		System.out.println("Night -10.00.pm-12.30pm : Doing my leisure actitivity such as playing games, reading light novel and manga and surfing through social media ");
+		System.out.println("Midnight -12.30pm : End of the day -Sleep-");
 	}
 
 }
